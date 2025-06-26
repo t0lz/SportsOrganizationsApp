@@ -1,6 +1,7 @@
 # Спортивные организации
 
-https://drive.google.com/file/d/15M6tHBkoC05Ip7owIZOHC8zHvQJB08sB/view?usp=drive_link - exe файл программы
+https://clck.ru/3Mofk8 - exe файл программы
+https://clck.ru/3Mofru - установщик программы
 
 ## Аннотация
 

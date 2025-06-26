@@ -34,7 +34,7 @@
 1. Скачайте исходный код с GitHub:
 
    ```bash
-   git clone https://github.com/yourusername/sportsorganizationsApp.git
+   git clone https://github.com/t0lz/SportsOrganizationsApp
    ```
 
 2. Перейдите в каталог проекта:
